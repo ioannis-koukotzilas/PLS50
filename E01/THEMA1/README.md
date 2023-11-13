@@ -1,7 +1,5 @@
 ## Επεξηγήσεις
 
-The workspace contains two folders by default, where:
-
 - `Pizza`: Αντιπροσωπεύει την οντότητα της πίτσας
 - `PizzaController`: Διαχειρίζεται την αλληλεπίδραση
 - `PizzaService`: Ενορχηστρώνει τη συνολική διαδικασία και την επιχειρηματική λογική
